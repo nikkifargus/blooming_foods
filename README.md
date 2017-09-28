@@ -18,7 +18,7 @@ I had a meeting with Charlotte to discuss the objectives of the project, the tim
 
 As the branding had not been finalised at this stage I was able to be more creative with the design ideas and put into practice my knowledge about web design as well as the development aspect whilst staying within Charlottes vision.
 
-I then researched how to implement a sleek parallax design. Then based the wire framing on this.
+I then researched how to implement a sleek parallax design and based the wire framing on this.
 
 TBC planning still in progress!
 
