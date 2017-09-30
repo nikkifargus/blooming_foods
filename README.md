@@ -8,19 +8,12 @@ This project is to create a landing page for the company "Blooming Foods" which 
 1) Create a simple landing page with a short description of the company and founder.
 2) Include links to articles about the company.
 3) Allow clients to submit their email address to receive a newsletter.
-4) Use 1 page with scrollable panels for each section.
-
-Based on this I decided to create a parallax website
 
 ## Planning
 
-I had a meeting with Charlotte to discuss the objectives of the project, the timescale and initial design ideas.
+I had a meeting with Charlotte to discuss the objectives of the project, the timescale and design ideas.
 
-As the branding had not been finalised at this stage I was able to be more creative with the design ideas and put into practice my knowledge about web design as well as the development aspect whilst staying within Charlottes vision.
-
-I then researched how to implement a sleek parallax design and based the wire framing on this.
-
-TBC planning still in progress!
+Based on the design given, I decided i should be able to implement a simple 1 page website without the need for any css frameworks. 
 
 ## Development
 
