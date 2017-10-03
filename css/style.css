@@ -19,7 +19,7 @@ img{
 }
 
 .blurb{
-  width: 45%;
+  width: 50%;
   text-align: center;
   margin: 0 auto;
 }
@@ -30,8 +30,9 @@ img{
   margin-top: 0;
 }
 
-h1{
+.about h1{
   margin-bottom: 50px;
+  margin-top: 0;
 
 }
 
@@ -46,7 +47,7 @@ h3{
 }
 
 html{
-  font-family: 'Asap Condensed', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #0E2E47;
 }
 
